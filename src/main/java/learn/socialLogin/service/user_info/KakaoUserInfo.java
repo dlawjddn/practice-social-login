@@ -1,10 +1,8 @@
 package learn.socialLogin.service.user_info;
 
-import learn.socialLogin.SocialLoginApplication;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-import org.springframework.boot.SpringApplication;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
